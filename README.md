@@ -20,3 +20,8 @@ Lembre-se de ir na página "Abrir-conta" que é a parte manipulada durante o cur
 ## Tecnologias utilizadas no projeto
 * HTML
 * CSS
+
+Spoilers do projeto:
+
+<p align="center">![image](https://user-images.githubusercontent.com/123435999/221441624-bf1251b0-f1a9-43f9-a5ba-a7b39d226364.png)</p>
+
