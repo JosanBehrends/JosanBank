@@ -23,5 +23,5 @@ Lembre-se de ir na página "Abrir-conta" que é a parte manipulada durante o cur
 
 Spoilers do projeto:
 
-<p align="center">![image](https://user-images.githubusercontent.com/123435999/221441624-bf1251b0-f1a9-43f9-a5ba-a7b39d226364.png)</p>
+![image](https://user-images.githubusercontent.com/123435999/221441672-7c56fe8b-815b-4f7b-9d71-5ea3a8f77245.png)
 
