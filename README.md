@@ -1,3 +1,5 @@
+JosanBank
+
 Projeto feito na Alura durante um Curso ministrado pela instrutora Monica Hillman. Importante dizer que no curso foram treinados alguns conceitos de JavaScript com o HTML e CSS já prontos e disponíveis no projeto. Dentre as principais áreas treinadas no curso, podemos citar:
 
 * Cadastro e validação de dados (CPF, RG, Idade, Nome, etc.)
